@@ -1,2 +1,2 @@
 # car price predcition project
-This is the project of car price prediction on the data science.
+In this project I develop the model which predict the price of car on some features. There are 14 different features releted house I collected as a data.
